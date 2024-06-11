@@ -1,0 +1,8 @@
+Input:
+- type_of_input:
+    unstructured_url: False
+- URL: "https://profit.pakistantoday.com.pk/2024/06/10/brandon-timinsky-resigns-as-sadapay-ceo-after-papra-acquisition/"
+- File_path: 'dawn_article.txt'
+Summarizer:
+- max_length: 100
+- min_length: 50
