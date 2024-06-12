@@ -1,6 +1,6 @@
 # Text-Summarizer
 
-This text summarizer comprises of a yaml config file, a py file and an ipynb file that you can be used to use an LLM model to summarize a text.
+This text summarizer comprises of a yaml config file, a py file and an ipynb file that can be used to leverage an LLM model to summarize a text.
 
 ### Text Input options:
 1. In the config file, you have an option to set the unstructured_url = True and a URL that you can input. It will fetch the written content from that URL
